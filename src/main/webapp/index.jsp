@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!This is my final assignment demo project</h2>
+<h2>modified index.jsp......to commit and check the same in remote repo</h2>
 </body>
 </html>
